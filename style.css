@@ -1,43 +1,30 @@
-body{
-  background-color: blue;
-}
+/* styles.css */
 
-h1 {
-  color: white;
-  font-size: 
-    font-family: Arial, Helvetica, sans serif;
-  padding-left: 50px;
+body{
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top:50px;
+  margin-bottom:50px;
+
+}
+#container{
+  background-color:#8bb1f9;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+  padding: 35px 75px 35px ;
+
+
+  border-radius: 20px;
+  
 }
 
 img{
-  width: 50%
+  height: auto;
+  width: 300px;
 }
 
-p{
-  color: white
-}
-
-.header {
-  border: 3px solid white;
-}
-h2 {
-  color: white
-      padding-left: 50px;
-  margin-left: 50px
-
-}
-
-div {background-color: 
- 
-}
-div {
-  margin-left: 50px;
-}
-
- {
-  background color: black;
+h5{
+  font-size:36
   
-}
-div {
-  
-}
